@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CianoRonarudo
 - 👀 I’m interested in Machine Learning, DevOps, Web programming and Robotics
-- 🌱 I’m currently learning Python, JavaScript
+- 🌱 I’m currently learning Python, JavaScript, VueJS and Django
 - 💞️ I’m looking to collaborate on Coding and DevOps
 - 📫 How to reach me : with gmail ronald.sovide@gmail.com
 - 😄 Pronouns: ...
